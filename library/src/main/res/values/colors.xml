@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#0000</color>
+
+    <color name="black">#000</color>
+    <color name="black_30">#4D000000</color>
+    <color name="overlay">#CC000000</color>
+    <color name="white">#FFF</color>
+    <color name="translucent_white">#8FFF</color>
+    <color name="transparent_white">#0FFF</color>
+
+    <color name="user_input_field_background_color">#1AFFFFFF</color>
+    <color name="user_input_field_background_color_dark">#33D8D8D8</color>
+
+    <color name="app_button_normal_color">#1592CE</color>
+    <color name="app_button_pressed_color">#29A8E6</color>
+
+    <color name="accent">#1592CE</color>
+    <color name="accent_77">#661592CE</color>
+    <color name="accent_55">#661592CE</color>
+
+
+    <!--App Text Color flavours-->
+    <color name="app_text_color">#505050</color>
+    <color name="app_text_color_cc">#CC595959</color>
+    <color name="app_text_color_99">#99595959</color>
+    <color name="app_text_color_22">#22595959</color>
+    <color name="calendar_lines">#B2B2B2</color>
+
+    <color name="action_bar_color">#0C577B</color>
+    <color name="action_bar_dull_color">#083A52</color>
+    <color name="action_bar_color_translucent">#CC0C577B</color>
+
+    <color name="list_background">#E2E4E6</color>
+
+    <!--Status Codes-->
+    <color name="status_unassigned">#999999</color>
+    <color name="status_declined">#999999</color>
+    <color name="status_assigned">#FC8344</color>
+    <color name="status_accepted">#BA68C8</color>
+    <color name="status_acknowledged">#BA68C8</color>
+    <color name="status_started">#2196F3</color>
+    <color name="status_arrived">#3F51BF</color>
+    <color name="status_successful">#2C9F2C</color>
+    <color name="status_failed">#E53935</color>
+    <color name="status_canceled">#E53935</color>
+
+    <!--Task Colors-->
+    <color name="task_pickup">#D9EDDA</color>
+    <color name="task_delivery">#CFE7FB</color>
+
+    <color name="separator">#CBCBCB</color>
+    <color name="image_background_color">#7B7B7B</color>
+    <color name="custom_field_image_background_color">#DDDDDD</color>
+
+    <color name="task_checklist_incomplete">#F5A623</color>
+    <color name="black_translucent">#66000000</color>
+
+    <color name="caution_red">#E53935</color>
+    <color name="caution_red_translucent">#66E53935</color>
+    <color name="safe_green">#2C9F2C</color>
+    <color name="safe_green_translucent">#662C9F2C</color>
+
+    <!--On_Boarding backgrounds-->
+    <color name="launcher_screens_bg">#09293A</color>
+    <color name="launcher_screens_button_normal">#1592CE</color>
+    <color name="launcher_screens_button_pressed">#29A8E6</color>
+    <color name="launcher_screens_button_text_color">#FFF</color>
+
+
+    <color name="light_blue">#33B5E5</color>
+
+    <color name="incomplete_tasks">#CC0000</color>
+    <color name="total_tasks">#0099CC</color>
+    <color name="white_30">#4DFFFFFF</color>
+
+    <color name="filter_options_layout_color">#EEEEEE</color>
+    <color name="edit_text_hint_color">#AAAAAA</color>
+    <color name="tab_layout_text_color">#909090</color>
+    <color name="table_reset_btn_color">#F0F0F0</color>
+    <color name="table_reset_btn_color_pressed">#DDDDDD</color>
+
+    <color name="table_completed_btn_color">#63AE0C</color>
+    <color name="table_cancelled_btn_color">#D64E47</color>
+    <color name="notification_badge_color">#E53935</color>
+
+    <color name="task_details_bg">#F7F7F7</color>
+
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.library.InvertSlider
+        android:id="@+id/sliderInvert"
+        android:layout_margin="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_negative_slider"
+        android:clickable="false"
+        android:max="100"
+        android:padding="@dimen/button_corner_radius"
+        android:progress="100"
+        android:progressDrawable="@color/transparent"
+        android:thumb="@drawable/slide_decline"
+        android:thumbOffset="0dp"/>
+</RelativeLayout>
